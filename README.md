@@ -1,2 +1,2 @@
-# React-Boilerplate
-React Boilerplate
+# Drum Machine
+Built on React Boilerplate
